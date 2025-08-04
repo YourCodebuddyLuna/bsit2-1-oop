@@ -19,7 +19,6 @@ public class Book {
         System.out.println("Author: " + author);
         System.out.println("Pages: " + pages);
         System.out.println("Available: " + (isAvailable ? "Yes" : "No"));
-        System.out.println("-------------------------");
     }
 
     
